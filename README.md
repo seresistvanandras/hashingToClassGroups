@@ -5,7 +5,7 @@ This repository contains the open-source code of the following pre-print paper:
 Title: How (<em>not</em>) to hash into class groups of imaginary quadratic fields?
 
 Currently available at the following links:
-* IACR [eprint link]([https://eprint.iacr.org](https://eprint.iacr.org/2024/034.pdf)).
+* IACR [eprint link](https://eprint.iacr.org/2024/034.pdf).
 * Researchgate [link](https://www.researchgate.net/publication/377241277_How_not_to_hash_into_class_groups_of_imaginary_quadratic_fields).
 
  The Python3 code investigates two main questions:
